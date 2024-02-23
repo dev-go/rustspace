@@ -1,0 +1,4 @@
+I learn rust.
+I like go.
+I hate java.
+I LIKE C.
