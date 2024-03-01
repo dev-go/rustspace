@@ -1,0 +1,9 @@
+[package]
+name = "macro_hello_example"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+macro_hello = { path = "../macro_hello" }
+
+macro_hello_impl = { path = "../macro_hello_impl" }
